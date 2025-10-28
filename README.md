@@ -23,10 +23,15 @@ It’s a web version of my CV — created to present my **skills**, **experience
 ## 📂 Project Structure
 
 miroraportfolio-master/
+
 │
+
 ├── index.html       # Main portfolio page
+
 ├── style.css        # Custom styling file
+
 ├── images/          # All images and assets
+
 └── README.md        # Project documentation
 
 ---
