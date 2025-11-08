@@ -37,7 +37,7 @@ miroraportfolio-master/
 ---
 
 ## 🌟 Live Demo
-🔗 [View Portfolio](https://mirora95.github.io/my_portfolio)
+🔗 [View Portfolio](https://mirora95.github.io/MyPortfolio/)
 
 > (If the link doesn’t work yet, enable GitHub Pages:  
 > Go to **Settings → Pages → Branch: main → Save**)
